@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">Salesforce Basics</langstring>
+          <langstring xml:lang="x-none">Salesforce Basics 2</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,11 +50,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="Salesforce_Basics_ORG">
-    <organization identifier="Salesforce_Basics_ORG">
-      <title>Salesforce Basics</title>
+  <organizations default="Salesforce_Basics_2_ORG">
+    <organization identifier="Salesforce_Basics_2_ORG">
+      <title>Salesforce Basics 2</title>
       <item identifier="HandshakeAlternatives_SCO" isvisible="true" identifierref="__5xNy60o200l_course_id_RES">
-        <title>Salesforce Basics</title>
+        <title>Salesforce Basics 2</title>
       </item>
     </organization>
   </organizations>
