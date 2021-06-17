@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">Salesforce Basics 2</langstring>
+          <langstring xml:lang="x-none">Learning Salesforce - The Basics</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,18 +50,21 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="Salesforce_Basics_2_ORG">
-    <organization identifier="Salesforce_Basics_2_ORG">
-      <title>Salesforce Basics 2</title>
+  <organizations default="Learning_Salesforce_-_The_Basics_ORG">
+    <organization identifier="Learning_Salesforce_-_The_Basics_ORG">
+      <title>Learning Salesforce - The Basics</title>
       <item identifier="HandshakeAlternatives_SCO" isvisible="true" identifierref="__5xNy60o200l_course_id_RES">
-        <title>Salesforce Basics 2</title>
+        <title>Learning Salesforce - The Basics</title>
       </item>
     </organization>
   </organizations>
   <resources>
-    <resource identifier="__5xNy60o200l_course_id_RES" type="webcontent" href="launcher.html" adlcp:scormtype="sco">
+    <resource identifier="__5xNy60o200l_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
       <file href="mobile/6QsB6hlJIKp_50_DX772_DY772_CX386_CY300.jpg" />
+      <file href="mobile/5jDmttQ7sFf_50_P_48_146_1816_856_DX1440_DY1440_CX1428_CY673.jpg" />
+      <file href="mobile/6ftTG54zagN_50_DX962_DY962_CX1009_CY530.jpg" />
+      <file href="story_content/6Ubs0Vq68F4_44100_48_0.mp3" />
       <file href="mobile/5xpQlCFzwUj_50_DX1316_DY1316_CX1040_CY585.png" />
       <file href="mobile/61PQ5wgIpyd_50_DX618_DY618_CX478_CY426.jpg" />
       <file href="mobile/5fHMpB1q3gl_50_RG_DX364_DY364_CX381_CY359.png" />
@@ -173,7 +176,38 @@
       <file href="story_content/6443QMS7Nno_captions.js" />
       <file href="mobile/poster_6443QMS7Nno_video_6lMJqFocTMh_18_48_720x406.jpg" />
       <file href="meta.xml" />
+      <file href="story_content/64IaZz0l3tH.png" />
+      <file href="story_content/60ajyIyBczW.png" />
+      <file href="story_content/6Warm6kx1X1.png" />
+      <file href="story_content/5c3XeW51VSo.png" />
+      <file href="story_content/6DFmkWObUaA.png" />
+      <file href="story_content/6kcnypiTQbs.png" />
+      <file href="story_content/68tF6G3roQh.png" />
+      <file href="story_content/61onGA1d380.png" />
+      <file href="story_content/5jbtJUJzMDu.png" />
+      <file href="story_content/5f09DXTExYI.png" />
+      <file href="story_content/5gF3CtlAUnD.png" />
+      <file href="story_content/6Rx92HkLHib.png" />
+      <file href="story_content/68SrqoUuWwb.png" />
+      <file href="story_content/5VmUWwpyM92.png" />
+      <file href="story_content/6JfUs05cPvq.png" />
       <file href="story_content/user.js" />
+      <file href="story_content/external_files/Ascendas cases work flow.pdf" />
+      <file href="story_content/external_files/Cases &amp; Service calls - Getting started.pdf" />
+      <file href="story_content/external_files/Cases &amp; Service calls - how to create cases.pdf" />
+      <file href="story_content/external_files/Cases &amp; Service calls - how to send service reports.pdf" />
+      <file href="story_content/external_files/Cases &amp; Service calls - Intro.pdf" />
+      <file href="story_content/external_files/How to correctly close a project that is completed in project module.pdf" />
+      <file href="story_content/external_files/How to generate sales reports.pdf" />
+      <file href="story_content/external_files/How to Login opptys when quoting to many Contractors.pdf" />
+      <file href="story_content/external_files/Logging Opportunities for Project Tenders and Main-Cons.pdf" />
+      <file href="story_content/external_files/Offline Version - How to install &amp; how it works.pdf" />
+      <file href="story_content/external_files/Opportunities Note 1.pdf" />
+      <file href="story_content/external_files/Opportunities Note 2.pdf" />
+      <file href="story_content/external_files/Project Module - how to use.pdf" />
+      <file href="story_content/external_files/Things to note when creating new lead, contact or account.pdf" />
+      <file href="story_content/external_files/如何在salesforce中录入项目信息.pdf" />
+      <file href="mobile/Shape5ZYoK469ucX.png" />
       <file href="mobile/Shape6gTvnMcVClr.png" />
       <file href="mobile/Shape6eAJQbIkI2Q.png" />
       <file href="mobile/Shape6UONV9K0A2I.png" />
@@ -235,6 +269,7 @@
       <file href="html5/data/js/6PfiZvgkGVP.js" />
       <file href="html5/data/js/6qJuCmD2twn.js" />
       <file href="html5/data/js/6Xkp90efalF.js" />
+      <file href="html5/data/js/6XUSLLWyoes.js" />
       <file href="html5/data/js/data.js" />
       <file href="html5/data/js/frame.js" />
       <file href="html5/data/js/paths.js" />
@@ -249,8 +284,6 @@
       <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
       <file href="analytics-frame.html" />
       <file href="story.html" />
-      <file href="launcher.html" />
-      <file href="story_content/external_window.png" />
       <file href="index_lms.html" />
       <file href="lms/AICCComm.html" />
       <file href="lms/blank.html" />
