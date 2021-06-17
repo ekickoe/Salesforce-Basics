@@ -59,7 +59,7 @@
     </organization>
   </organizations>
   <resources>
-    <resource identifier="__5xNy60o200l_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+    <resource identifier="__5xNy60o200l_course_id_RES" type="webcontent" href="launcher.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
       <file href="mobile/6QsB6hlJIKp_50_DX772_DY772_CX386_CY300.jpg" />
       <file href="mobile/5xpQlCFzwUj_50_DX1316_DY1316_CX1040_CY585.png" />
@@ -249,6 +249,8 @@
       <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
       <file href="analytics-frame.html" />
       <file href="story.html" />
+      <file href="launcher.html" />
+      <file href="story_content/external_window.png" />
       <file href="index_lms.html" />
       <file href="lms/AICCComm.html" />
       <file href="lms/blank.html" />
