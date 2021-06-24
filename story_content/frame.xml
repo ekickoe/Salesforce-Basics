@@ -1565,21 +1565,20 @@
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Roboto Light' style='font-size: 11px;' size='11' color='#464646'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="story_content/external_files/Ascendas cases work flow.pdf" image="story_content/64IaZz0l3tH.png" title="Ascendas cases work flow" />
-      <resource url="story_content/external_files/Cases &amp; Service calls - Getting started.pdf" image="story_content/60ajyIyBczW.png" title="Cases &amp;amp; Service calls - Getting started" />
-      <resource url="story_content/external_files/Cases &amp; Service calls - how to create cases.pdf" image="story_content/6Warm6kx1X1.png" title="Cases &amp;amp; Service calls - how to create cases" />
-      <resource url="story_content/external_files/Cases &amp; Service calls - how to send service reports.pdf" image="story_content/5c3XeW51VSo.png" title="Cases &amp;amp; Service calls - how to send service reports" />
-      <resource url="story_content/external_files/Cases &amp; Service calls - Intro.pdf" image="story_content/6DFmkWObUaA.png" title="Cases &amp;amp; Service calls - Intro" />
-      <resource url="story_content/external_files/How to correctly close a project that is completed in project module.pdf" image="story_content/6kcnypiTQbs.png" title="How to correctly close a project that is completed in project module" />
-      <resource url="story_content/external_files/How to generate sales reports.pdf" image="story_content/68tF6G3roQh.png" title="How to generate sales reports" />
-      <resource url="story_content/external_files/How to Login opptys when quoting to many Contractors.pdf" image="story_content/61onGA1d380.png" title="How to Login opptys when quoting to many Contractors" />
-      <resource url="story_content/external_files/Logging Opportunities for Project Tenders and Main-Cons.pdf" image="story_content/5jbtJUJzMDu.png" title="Logging Opportunities for Project Tenders and Main-Cons" />
-      <resource url="story_content/external_files/Offline Version - How to install &amp; how it works.pdf" image="story_content/5f09DXTExYI.png" title="Offline Version - How to install &amp;amp; how it works" />
-      <resource url="story_content/external_files/Opportunities Note 1.pdf" image="story_content/5gF3CtlAUnD.png" title="Opportunities Note 1" />
-      <resource url="story_content/external_files/Opportunities Note 2.pdf" image="story_content/6Rx92HkLHib.png" title="Opportunities Note 2" />
-      <resource url="story_content/external_files/Project Module - how to use.pdf" image="story_content/68SrqoUuWwb.png" title="Project Module - how to use" />
-      <resource url="story_content/external_files/Things to note when creating new lead, contact or account.pdf" image="story_content/5VmUWwpyM92.png" title="Things to note when creating new lead, contact or account" />
-      <resource url="story_content/external_files/如何在salesforce中录入项目信息.pdf" image="story_content/6JfUs05cPvq.png" title="如何在salesforce中录入项目信息" />
+      <resource url="story_content/external_files/Cases &amp; Service calls - Getting started.pdf" image="story_content/5h41CpiYEGS.png" title="Cases &amp;amp; Service calls - Getting started" />
+      <resource url="story_content/external_files/Cases &amp; Service calls - how to create cases.pdf" image="story_content/6FStkqT8RaL.png" title="Cases &amp;amp; Service calls - how to create cases" />
+      <resource url="story_content/external_files/Cases &amp; Service calls - how to send service reports.pdf" image="story_content/5z89BNIMuYz.png" title="Cases &amp;amp; Service calls - how to send service reports" />
+      <resource url="story_content/external_files/Cases &amp; Service calls - Intro.pdf" image="story_content/6ZO6Q1Nxpxx.png" title="Cases &amp;amp; Service calls - Intro" />
+      <resource url="story_content/external_files/How to correctly close a project that is completed in project module.pdf" image="story_content/688KzKDt4Ms.png" title="How to correctly close a project that is completed in project module" />
+      <resource url="story_content/external_files/How to generate sales reports.pdf" image="story_content/68AnILKNNPa.png" title="How to generate sales reports" />
+      <resource url="story_content/external_files/How to Login opptys when quoting to many Contractors.pdf" image="story_content/65ULiCKfoNo.png" title="How to Login opptys when quoting to many Contractors" />
+      <resource url="story_content/external_files/Logging Opportunities for Project Tenders and Main-Cons.pdf" image="story_content/67AoF2lxvKm.png" title="Logging Opportunities for Project Tenders and Main-Cons" />
+      <resource url="story_content/external_files/Offline Version - How to install &amp; how it works.pdf" image="story_content/5sNdC031WME.png" title="Offline Version - How to install &amp;amp; how it works" />
+      <resource url="story_content/external_files/Opportunities Note 1.pdf" image="story_content/6TKl0CwIwQv.png" title="Opportunities Note 1" />
+      <resource url="story_content/external_files/Opportunities Note 2.pdf" image="story_content/6hCbwr8QC0s.png" title="Opportunities Note 2" />
+      <resource url="story_content/external_files/Project Module - how to use.pdf" image="story_content/6jqGp7xt6HV.png" title="Project Module - how to use" />
+      <resource url="story_content/external_files/Things to note when creating new lead, contact or account.pdf" image="story_content/5c80SAnD69O.png" title="Things to note when creating new lead, contact or account" />
+      <resource url="story_content/external_files/如何在salesforce中录入项目信息.pdf" image="story_content/6oQAMrH0fE0.png" title="如何在salesforce中录入项目信息" />
     </resources>
   </resource_data>
   <transcript_data />
